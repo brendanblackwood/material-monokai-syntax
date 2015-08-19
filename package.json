@@ -1,0 +1,23 @@
+{
+  "name": "material-monokai-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "My take on monokai for material-ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bblackwood/material-monokai-syntax"
+  },
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/bblackwood/material-monokai-syntax/issues"
+  },
+  "homepage": "https://github.com/bblackwood/material-monokai-syntax",
+}
