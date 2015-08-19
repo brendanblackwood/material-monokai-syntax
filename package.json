@@ -5,7 +5,7 @@
   "description": "My take on monokai for material-ui",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bblackwood/material-monokai-syntax"
+    "url": "https://github.com/brendanblackwood/material-monokai-syntax"
   },
   "keywords": [
     "syntax",
@@ -17,7 +17,7 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/bblackwood/material-monokai-syntax/issues"
+    "url": "https://github.com/brendanblackwood/material-monokai-syntax/issues"
   },
-  "homepage": "https://github.com/bblackwood/material-monokai-syntax"
+  "homepage": "https://github.com/brendanblackwood/material-monokai-syntax"
 }
