@@ -1,7 +1,7 @@
 {
   "name": "material-monokai-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "My take on monokai for material-ui",
   "repository": {
     "type": "git",
